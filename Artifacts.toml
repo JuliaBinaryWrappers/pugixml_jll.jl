@@ -1,0 +1,288 @@
+[[pugixml]]
+arch = "aarch64"
+git-tree-sha1 = "e2293fcc61c46cb95a8dd43ba83a728476de9e3d"
+os = "macos"
+
+    [[pugixml.download]]
+    sha256 = "a6cb228a46e29ebff3fa37fcb32998037fc8650ab9cb648f814188a19a53d5a4"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.aarch64-apple-darwin.tar.gz"
+[[pugixml]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7847da5bb3903b25027138c8216e3564eeb32b93"
+libc = "glibc"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "036f96b57e6fa04198e99a26c93ca4d69837dcef5b09b1ff9c899f8caf321318"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[pugixml]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9175dc642b13c80e998d2652c32e946916d4c5c2"
+libc = "glibc"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "a17d149391f62a91e77a8f23f2924040f236a7ae0ad42473f129a0b649746c23"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[pugixml]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6d4cfa77a58d771571be1ab47dc0d789653c8f1b"
+libc = "musl"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "fcc669998a8c6dd443be12edd0858bb82406d5f8821580fd2d4f2096a1749b20"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.aarch64-linux-musl-cxx03.tar.gz"
+[[pugixml]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "abd277b4b1b6e9a459fbeb313f2618e31e8164f7"
+libc = "musl"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "ca7b605c9807237525a8bd41a914bd6557ba90ea4273069ea85fa2ad3bbb96f3"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.aarch64-linux-musl-cxx11.tar.gz"
+[[pugixml]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "14148c0197f41afd04d5c8337035a4079163984b"
+libc = "glibc"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "c3ce054f318cf86a1a3b030b9652342508b2f9564b7466bcf68ceefc7a9d3a9b"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[pugixml]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b90eb14ace205e310072c352c2d1ed5a013697f6"
+libc = "glibc"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "20528145e38494cb0605d1a444b788ff4406acc4daed50c53c0cd11854028ed1"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[pugixml]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7a3d28ffd3787b0e5a3e01ebbcb3aa8179dc5336"
+libc = "musl"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "59204441331d14ac24bff645b7333e885531f135b5c1ac21fc1366c8d8d4c95f"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[pugixml]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1b7027a6d6663fc74cec80d5b69c0fcc93ec5740"
+libc = "musl"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "07d0ab50f18b57c7f83b3687b16b5370fd4435b70475ceca6be7f7826ab868a2"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[pugixml]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "493ec942b828cf5e13974b8e667dec2b88ab63f8"
+libc = "glibc"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "bedf2c7a482832bb4b229d0e64e28ec33be1c15716006e7666e4bc8d95b77244"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[pugixml]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5d0d8de27ef4084550854ece57daca1138485f87"
+libc = "glibc"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "7fb2df30e35a75ff0e39b425e8be0048a773c96f26da661941d41eac7b6f8560"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[pugixml]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "35c809d926bfc12465d7764f36f60e947afc29f5"
+libc = "musl"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "a45c18960847172e6200a1aa20320a60992dc02616a43d57fa4dfe3943a79ce0"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[pugixml]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9615108db0321e9743af8e640234d587d4339aa6"
+libc = "musl"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "9709c5cb8488ec7a0f56e75f510eaa7ea7a2eef216caa8e7c5c15380fe345b08"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[pugixml]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b26bbd05b62ca885b2236eccd7e32a1277214982"
+libc = "glibc"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "574675e604695fcb1ff76ee3ba883e3075a5c18026d4b133b2747d9f95030531"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.i686-linux-gnu-cxx03.tar.gz"
+[[pugixml]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "26a0db4e7072a4d2e0d6928d378fc86e2b59cc5e"
+libc = "glibc"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "037110fb73b93422b3056fa88889f7ced8629e1e97352e8962fff8e9a2955184"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.i686-linux-gnu-cxx11.tar.gz"
+[[pugixml]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dbf42f17183300366796cf06f545595ea0cf92f7"
+libc = "musl"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "582092a9fc00eb89ab7ef1aadcd6463d095d61ba611b300ef1e951f64d9d26ce"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.i686-linux-musl-cxx03.tar.gz"
+[[pugixml]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9f3d48977defec025f56ce96615d8ae8b14ae33f"
+libc = "musl"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "55e3ac42b5d597a339dc5dc7f50af9b9964a8a30e2eccf8ad6118ffe38f938a2"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.i686-linux-musl-cxx11.tar.gz"
+[[pugixml]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4d68a5cf7a682ea186a286eebb00824c7138d2a2"
+os = "windows"
+
+    [[pugixml.download]]
+    sha256 = "bbe4822665259039a7fbc5c36d172e4acff11e7e58319984a90009adf3bd5dfe"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.i686-w64-mingw32-cxx03.tar.gz"
+[[pugixml]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a374c3eb9144687c63124921c72b028e819c4219"
+os = "windows"
+
+    [[pugixml.download]]
+    sha256 = "11cd2d7f2b1a4557bcb2bd4927d47f24426f99cd89c12fcb0fbb6a70426ceae5"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.i686-w64-mingw32-cxx11.tar.gz"
+[[pugixml]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b0c540b1da972e6a29a8c26ff92ff354741535f4"
+libc = "glibc"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "c7e61289d454e86f645eb5481dd7f8b98a846f1e696421a1fc17b05dc81fe7ab"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[pugixml]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9c881eb3fccb13a9601277243d851fef1022bbd9"
+libc = "glibc"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "35f312a5498fbbf038eb794860e145d6ed4dffd284b18a42a2888cf7a85f57f8"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[pugixml]]
+arch = "x86_64"
+git-tree-sha1 = "fd2727bcf6c04bd1a11930aa74dd70ed5c0d0f32"
+os = "macos"
+
+    [[pugixml.download]]
+    sha256 = "70519bd55cba6f0c61db0e3ea3305febfc41d1a0c4edd3356b311bbadc1ade3f"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.x86_64-apple-darwin.tar.gz"
+[[pugixml]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "204736b7578066477417c50c7740c5463e8298d8"
+libc = "glibc"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "d55ec755ee722c2746b64412e3e08ed8a1599904c4b009c353f25951f43c0348"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[pugixml]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c33f8a4bfff82393418f378eed0a251734df0f0"
+libc = "glibc"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "73edaf48c170c80cb8b76279d19fe17cdeec537c7ffa80e656efeed695ba1280"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[pugixml]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c65b2620320b01f139d2bd6cc03c8ed4be46a1c8"
+libc = "musl"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "9570339513aa204689a4fda8cfe7a08d4fd6ef1469751f11a49b4ed67bbf8c7b"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.x86_64-linux-musl-cxx03.tar.gz"
+[[pugixml]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "efb1bb7e879f61f170f35a2f3e3a97936a6613a9"
+libc = "musl"
+os = "linux"
+
+    [[pugixml.download]]
+    sha256 = "c13d8e2e90dd3d2118d92230c8ce972bb04c22bb074802317fc634c311d524ff"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.x86_64-linux-musl-cxx11.tar.gz"
+[[pugixml]]
+arch = "x86_64"
+git-tree-sha1 = "18535b0ad4d5286746ca9883220fa9284718020f"
+os = "freebsd"
+
+    [[pugixml.download]]
+    sha256 = "4c63a761a8473c566b227ef10453db7f518c38c1737f4042348248054edb938f"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.x86_64-unknown-freebsd.tar.gz"
+[[pugixml]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e8b08207e2b87e3b6f75e4870c453f2b610e06fc"
+os = "windows"
+
+    [[pugixml.download]]
+    sha256 = "69c565dc74169a7cf3abd6e5c4ed69056cb7ca8016ed8c53020535fd9dc41aa7"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[pugixml]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ea06ef5c99ef48681c8e538e49f1aef235e00716"
+os = "windows"
+
+    [[pugixml.download]]
+    sha256 = "7d94d00fcee90b74f49698c8920e660d6597b1aa053b072a3381a38bc1aecc76"
+    url = "https://github.com/JuliaBinaryWrappers/pugixml_jll.jl/releases/download/pugixml-v1.11.0+0/pugixml.v1.11.0.x86_64-w64-mingw32-cxx11.tar.gz"
