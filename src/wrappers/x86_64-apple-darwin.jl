@@ -7,7 +7,7 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libpugixml,
-        "lib/libpugixml.1.11.dylib",
+        "lib/libpugixml.1.14.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
