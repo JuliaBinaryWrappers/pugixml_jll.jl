@@ -1,6 +1,6 @@
 name = "pugixml_jll"
 uuid = "ef860afa-341e-548b-93de-15e6b165854a"
-version = "1.14.1+0"
+version = "1.15.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
